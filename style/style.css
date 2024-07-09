@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heda{
+    display:flex;
+  
+}
+.heda-but{
+    width: 230px;
+    height: 56px;
+    border-radius: 8px;
+    margin-top: 38px;
+    margin-left: 900px;
+    background-color: #fff;
+
+    
+}
+
+.heda-text{
+    margin-top: 54px;
+    margin-left: 150px;
+     
+}
+.section1{
+    background-image: url(/assets/Hero-bg.png);
+    width: 1440px;
+    height: 652px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top: 31px;
+    
+
+    
+
+    
+}
