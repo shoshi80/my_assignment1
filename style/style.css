@@ -31,7 +31,7 @@ html {
 }
 
 .section1 {
-    background-image: url(/assets/Hero-bg.PNG);
+    background-image: url(../assets/Hero-bg.png);
     width: 1440px;
     height: 652px;
     background-size: cover;
