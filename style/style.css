@@ -481,6 +481,7 @@
 .sec5 {
     display: block;
     padding: 2px;
+    margin-top: 30px;
 }
 
 .need-support-caption {
@@ -547,4 +548,42 @@
     line-height: 23px;
     letter-spacing: 0%;
     text-align: center;
+}
+
+footer{
+    border-radius: 16px;
+background: rgba(13, 19, 33, 0.03);
+position: absolute;
+width: 1440px;
+height: 100px;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+width: 100%;
+}
+
+.ending{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+
+}
+
+.icons{
+    display: flex;
+    justify-content:space-between;
+    gap: 15px;
+    margin-right: 260px;
+}
+footer h1{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+margin-left: 150px;
+    margin-top:20px;
 }
