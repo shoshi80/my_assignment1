@@ -110,6 +110,8 @@
 
 }
 
+
+/* section 2 */
 .section2 {
     border-radius: 16px;
 
@@ -306,4 +308,32 @@ height: 52px;
 }
 .sec2-sub2-but{
 margin-right: 318px;
+}
+
+/* section3 inspiration part */
+
+.sec3-inspiration {
+    
+    width: 1140px; 
+    height: 775px; 
+   margin-top: -90px;
+   margin-left: 148px;
+   margin-right: 152px;
+}
+.sec3-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.sec3-caption{
+    margin-bottom: 48px;
+}
+.inspiration-video{
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+    padding: 32px;
 }
