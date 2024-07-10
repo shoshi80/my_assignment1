@@ -85,7 +85,7 @@
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
-    opacity: 0.7;
+    opacity: 0.8;
     margin-bottom: 22px;
     padding-left: 78px;
     padding-right: 78px;
@@ -337,3 +337,95 @@ border: 1px solid rgba(13, 19, 33, 0.2);
 border-radius: 16px;
     padding: 32px;
 }
+
+.section4 {
+    
+    width: 1140px; 
+    height: 775px; 
+   margin-top: -90px;
+   margin-left: 148px;
+   margin-right: 152px;
+}
+.sec4-target-caption{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 25px;
+margin-bottom: 35px;
+}
+
+.target-skills{
+    display: flex;
+    gap: 24px;
+}
+.target-skill{
+    padding: 40px;
+}
+
+.set1{
+    position: static;
+width: 364px;
+height: 299px;
+    border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+}
+
+.set2{
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+position: static;
+width: 364px;
+height: 299px;
+
+}
+
+.set3{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+width: 364px;
+height: 299px;
+}
+.target-description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    position: static;
+width: 284px;
+height: 52px;
+opacity: 0.7;
+}
+.target-title{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 900;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+position: static;
+width: 284px;
+height: 36px;
+margin-top: 10px;
+}
+.learmore{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 900;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+position: static;
+width: 284px;
+height: 19px;
+margin: 54px 0px;
